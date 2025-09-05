@@ -33,6 +33,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
+# Aiden's First CS193 Homework 
+- The TA's
+- The people in the class
+- The time of day
+- The fun questions for attendence 
+
 
 ### Support or Contact
 
