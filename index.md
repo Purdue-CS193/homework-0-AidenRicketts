@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+
 # Aiden's First CS193 Homework 
 - The TA's
 - The people in the class
