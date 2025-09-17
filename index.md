@@ -1,5 +1,5 @@
 
-# Aiden's First CS193 Homework 
+# Aiden Ricketts First CS193 Homework 
 - The TA's
 - The people in the class
 - The time of day
